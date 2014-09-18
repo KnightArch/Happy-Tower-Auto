@@ -6,5 +6,5 @@
 
 
 var sobeElevador = function(){
-    
+    prompt("teste");
 };
